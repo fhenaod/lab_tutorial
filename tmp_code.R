@@ -4,4 +4,9 @@ library(tidyverse)
 
 #Laura
 
+<<<<<<< HEAD
 2 + 4 = 100
+=======
+#tati 
+
+>>>>>>> c35f1c6f55656285bcbe052d0f5f06436f408e66
