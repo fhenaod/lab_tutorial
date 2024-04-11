@@ -2,7 +2,7 @@ library(tidyverse)
 
 2 + 2
 
-#Laura
+#Laura. Of course I can expand this line
 
 <<<<<<< HEAD
 2 + 4 = 100
